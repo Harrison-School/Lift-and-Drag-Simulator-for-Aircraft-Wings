@@ -1,0 +1,1 @@
+All graphs are assumed to be at a constant wing size of 0.1 square meters.
